@@ -1,0 +1,114 @@
+{
+  "segments": [
+    {
+      "segment_id": "M01",
+      "generated_file": "dist/main.js",
+      "generated_start": 1,
+      "generated_end": 3,
+      "original_file": "src/start.py",
+      "original_start": 30
+    },
+    {
+      "segment_id": "M02",
+      "generated_file": "dist/main.js",
+      "generated_start": 6,
+      "generated_end": 8,
+      "original_file": "src/auth.py",
+      "original_start": 20
+    },
+    {
+      "segment_id": "M03",
+      "generated_file": "dist/main.js",
+      "generated_start": 7,
+      "generated_end": 9,
+      "original_file": "src/legacy.py",
+      "original_start": 50
+    },
+    {
+      "segment_id": "M04",
+      "generated_file": "dist/worker.js",
+      "generated_start": 3,
+      "generated_end": 5,
+      "original_file": "src/jobs.py",
+      "original_start": 100
+    },
+    {
+      "segment_id": "M05",
+      "generated_file": "Dist/main.js",
+      "generated_start": 1,
+      "generated_end": 2,
+      "original_file": "src/case.py",
+      "original_start": 200
+    },
+    {
+      "segment_id": "M06",
+      "generated_file": "dist\\main.js",
+      "generated_start": 1,
+      "generated_end": 2,
+      "original_file": "src/windows.py",
+      "original_start": 300
+    }
+  ],
+  "findings": [
+    {
+      "finding_id": "F01",
+      "generated_file": "dist/main.js",
+      "generated_line": 1
+    },
+    {
+      "finding_id": "F02",
+      "generated_file": "dist/main.js",
+      "generated_line": 3
+    },
+    {
+      "finding_id": "F03",
+      "generated_file": "dist/main.js",
+      "generated_line": 4
+    },
+    {
+      "finding_id": "F04",
+      "generated_file": "dist/main.js",
+      "generated_line": 5
+    },
+    {
+      "finding_id": "F05",
+      "generated_file": "dist/main.js",
+      "generated_line": 7
+    },
+    {
+      "finding_id": "F06",
+      "generated_file": "dist/main.js",
+      "generated_line": 9
+    },
+    {
+      "finding_id": "F07",
+      "generated_file": "dist/worker.js",
+      "generated_line": 4
+    },
+    {
+      "finding_id": "F08",
+      "generated_file": "dist/other.js",
+      "generated_line": 1
+    },
+    {
+      "finding_id": "F09",
+      "generated_file": "Dist/main.js",
+      "generated_line": 1
+    },
+    {
+      "finding_id": "F10",
+      "generated_file": "dist\\main.js",
+      "generated_line": 2
+    },
+    {
+      "finding_id": "F11",
+      "generated_file": "dist/main.js",
+      "generated_line": true
+    },
+    {
+      "finding_id": "F12",
+      "generated_file": "dist/main.js",
+      "generated_line": 0
+    }
+  ]
+}
